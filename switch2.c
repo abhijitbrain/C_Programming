@@ -23,7 +23,9 @@ void main()
             }
             printf("Factorial of %d is %d\n",n,fact);
             break;
-        
+        case 2:
+                
+                break;
         default:
             break;
         }
